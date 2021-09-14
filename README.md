@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/EdisonPadilla/Chat-app-CSS-illustration-.git)
-- Live Site URL: [live site (github page)](https://your-live-site-url.com)
+- Live Site URL: [live site (github page)](https://edisonpadilla.github.io/Chat-app-CSS-illustration-/)
 
 ## My process
 
